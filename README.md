@@ -35,7 +35,7 @@
 
 # How to install and run the project:
 
-- Download the zipped repo
+- Download the zipped repo, unzip it
 - This is a python based project
 - Install Python version 3.6+, Current Python version I used is Python 3.8.12
 - Python Libraries involved: json, re, os, datetime, collections, typing
@@ -43,7 +43,7 @@
   Command to create: python3 -m venv venv
   To activate: source venv/bin/activate
   To deactivate: deactivate
-- To run the app, use python3 analysis.py
+- To run the app from cmd line, locate to the folder path and type  **python3 analysis.py**
 - Then supply input text file, stopwords text file, apply settings according to the input prompt
 - Results are exported to the file
 
